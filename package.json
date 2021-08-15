@@ -1,0 +1,19 @@
+{
+  "name": "rokomari",
+  "version": "1.0.0",
+  "main": "nightwatch.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "author": "marzan666",
+  "license": "ISC",
+  "dependencies": {},
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {
+    "chromedriver": "^92.0.1",
+    "nightwatch": "^1.7.8"
+  },
+  "description": ""
+}
